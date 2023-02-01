@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "ExchangeName": "Binance"
+    },
+    {
+        "Id": 2,
+        "ExchangeName": "CoinbasePro"
+    },
+    {
+        "Id": 3,
+        "ExchangeName": "HuobiPro"
+    }
+]

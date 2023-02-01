@@ -1,0 +1,18 @@
+[
+    {
+        "Id": 1,
+        "Symbol": "ETH"
+    },
+    {
+        "Id": 2,
+        "Symbol": "BNB"
+    },
+    {
+        "Id": 3,
+        "Symbol": "BTC"
+    },
+    {
+        "Id": 4,
+        "Symbol": "EOS"
+    }
+]

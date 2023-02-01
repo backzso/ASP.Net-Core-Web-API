@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "4jj5BrrzF3KPEkmlKPYzCQjWojlo6Rwu4f/zbLgWg+U=",
+  "Source": "BinanceAPI",
+  "BasePath": "_content/BinanceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BinanceAPI\\wwwroot",
+      "Source": "BinanceAPI",
+      "ContentRoot": "C:\\Users\\sucuk\\Desktop\\CASESTUDY\\BinanceAPI\\wwwroot\\",
+      "BasePath": "_content/BinanceAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sucuk\\Desktop\\CASESTUDY\\BinanceAPI\\wwwroot\\exchanges.json",
+      "SourceId": "BinanceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sucuk\\Desktop\\CASESTUDY\\BinanceAPI\\wwwroot\\",
+      "BasePath": "_content/BinanceAPI",
+      "RelativePath": "exchanges.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exchanges.json"
+    },
+    {
+      "Identity": "C:\\Users\\sucuk\\Desktop\\CASESTUDY\\BinanceAPI\\wwwroot\\exchangesymbols.json",
+      "SourceId": "BinanceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sucuk\\Desktop\\CASESTUDY\\BinanceAPI\\wwwroot\\",
+      "BasePath": "_content/BinanceAPI",
+      "RelativePath": "exchangesymbols.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exchangesymbols.json"
+    }
+  ]
+}
